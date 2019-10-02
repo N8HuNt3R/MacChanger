@@ -4,5 +4,7 @@
 # pip install colored
 # pip install termcolor
 # pip install subprocess
-# python3 
+# git clone https://github.com/N8HuNt3R/MacChanger.git
+# cd MacChanger/
+# python3 MacChanger.py
 
